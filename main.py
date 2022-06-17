@@ -19,7 +19,7 @@ session = Session()
 
 session_list = []
 
-publisher = input('Введите название или идентификатор издателя:  ')
+publisher = input('Введите название издателя:  ')
 
 
 def insert_data():
